@@ -1,12 +1,15 @@
 0x19. C- STACKS, QUEUES - LIFO,FIFO
 
-Description
+DESCRIPTION 
+
 Third team project. Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter
 
-Project Aim
+PROJECT AIM
+
 To create an interpreter for Monty ByteCode files
 
 Learning Objectives
+
 ▪︎Understand what LIFO and FIFO mean
 ▪︎Understand what a stack is and when to use it
 ▪︎Understand what a queue is and when to use it
